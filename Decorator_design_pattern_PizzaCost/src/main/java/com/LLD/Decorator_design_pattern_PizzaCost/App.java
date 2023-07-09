@@ -6,7 +6,7 @@ import com.LLD.Decorator_design_pattern_PizzaCost.model.decorator.ExtraCheese;
 import com.LLD.Decorator_design_pattern_PizzaCost.model.decorator.Mushroom;
 
 /**
- * Decorator Design Pattern
+ * Decorator Design Pattern Based Pizza Cost
  *
  */
 public class App 
