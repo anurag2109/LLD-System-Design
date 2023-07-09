@@ -13,7 +13,6 @@ public class Mushroom extends ToppingDecorator {
 	
 	@Override
 	public int cost() {
-		// TODO Auto-generated method stub
 		return this.basePizza.cost() + extraCostForMushroom;
 	}
 
